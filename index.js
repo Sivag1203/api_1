@@ -9,5 +9,5 @@ app.get("/", async (req, res) => {
 });
 
 app.get("/json", async (req, res) => {
-  res.send({ message: "pun" });
+  res.send({ message: "reply vandhutan da" });
 });
